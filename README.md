@@ -116,3 +116,15 @@ Sinta-se à vontade para contribuir com melhorias ou novas funcionalidades. Faç
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
+
+## Requisição Post no insominia:
+
+![image](https://github.com/user-attachments/assets/0dcaf8a7-cdc4-40c8-81fb-d0cfdb9def3a)
+
+## Requisição Get no insominia:
+
+![image](https://github.com/user-attachments/assets/700be20f-b76b-4d6b-a842-527aefbcf2d2)
+
+
+
+
